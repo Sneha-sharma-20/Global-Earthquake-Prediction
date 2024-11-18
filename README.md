@@ -1,0 +1,3 @@
+Earthquakes are unpredictable natural disasters that can cause severe damage. This project leverages machine learning to predict earthquake occurrences using historical seismic data. Key features like location (latitude, longitude), depth, magnitude, and date are analyzed to train a Random Forest Classifier, which predicts the likelihood of future seismic events.
+
+The model achieves approximately 95% accuracy, aided by feature analysis and robust evaluation metrics such as confusion matrices and root mean square error (RMSE). Visualization tools highlight patterns in earthquake activity, enhancing the understanding of critical factors. While promising, this approach is a stepping stone toward integrating real-time seismic data for improved disaster preparedness.
